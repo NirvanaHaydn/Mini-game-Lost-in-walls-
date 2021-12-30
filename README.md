@@ -1,4 +1,4 @@
-# Mini-game: _Lost in Walls!_ 
+# Mini-game: _Lost on Walls!_ 
 
 
 A little basic movement game about a fluffy ball that gets stuck between walls!
